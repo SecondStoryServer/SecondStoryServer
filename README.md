@@ -10,6 +10,10 @@
 | [SS-Blog-Notice](https://github.com/SecondStoryServer/SS-Blog-Notice) | ブログ自動通知 |
 
 ### Phase5
+| Key | Value |
+|-----|-------|
+| Minecraft Version | 1.16.4 |
+
 | Name | Description |
 |------|-------------|
 | [SS-Plugins](https://github.com/SecondStoryServer/SS-Plugins) | Paper |
@@ -17,6 +21,10 @@
 | [SS-Plugins-Message](https://github.com/SecondStoryServer/SS-Plugins-Message) | Paper-Waterfall間の通信データ |
 
 ### Phase4
+| Key | Value |
+|-----|-------|
+| Minecraft Version | 1.15.2 → 1.16.2 |
+
 | Name | Description |
 |------|-------------|
 | [SS-Plugin](https://github.com/SecondStoryServer/SS-Plugin) | プラグインの依存関係図 |
@@ -36,6 +44,10 @@
 | [SS-World](https://github.com/SecondStoryServer/SS-World) | ワールド管理 |
 
 ### Phase3
+| Key | Value |
+|-----|-------|
+| Minecraft Version | 1.15.1 |
+
 | Name | Description |
 |------|-------------|
 | [SecondStoryLive](https://github.com/SecondStoryServer/SecondStoryLive-1.15.1) | 基本システム |
@@ -44,12 +56,20 @@
 | [SecondStoryBungee](https://github.com/SecondStoryServer/SecondStoryBungee) | Bungeecord/Waterfall |
 
 ### Phase2
+| Key | Value |
+|-----|-------|
+| Minecraft Version | 1.12.2 |
+
 | Name | Description |
 |------|-------------|
 | [SecondStoryCore](https://github.com/SecondStoryServer/SecondStory-1.12.2/tree/master/SecondStoryCore) | 基本システム |
 | [SecondStoryLibrary](https://github.com/SecondStoryServer/SecondStory-1.12.2/tree/master/SecondStoryLibrary) | 基本ライブラリ |
 
 ### Phase1
+| Key | Value |
+|-----|-------|
+| Minecraft Version | 1.12.2 |
+
 | Name | Description |
 |------|-------------|
 | [SecondStory](https://github.com/SecondStoryServer/SecondStory-1.12.2/tree/master/SecondStory) | 全システム |
