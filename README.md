@@ -31,3 +31,8 @@
 - [SS-Tool](https://github.com/SecondStoryServer/SS-Tool)
 - [SS-Votifier](https://github.com/SecondStoryServer/SS-Votifier)
 - [SS-World](https://github.com/SecondStoryServer/SS-World)
+
+### Phase5
+- [SS-Plugins](https://github.com/SecondStoryServer/SS-Plugins)
+- [SS-W-Plugins](https://github.com/SecondStoryServer/SS-W-Plugins)
+- [SS-Plugins-Message](https://github.com/SecondStoryServer/SS-Plugins-Message)
