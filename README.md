@@ -36,3 +36,8 @@
 - [SS-Plugins](https://github.com/SecondStoryServer/SS-Plugins)
 - [SS-W-Plugins](https://github.com/SecondStoryServer/SS-W-Plugins)
 - [SS-Plugins-Message](https://github.com/SecondStoryServer/SS-Plugins-Message)
+
+### Other
+- [SecondStoryServer](https://github.com/SecondStoryServer/SecondStoryServer)
+- [SS-SeverList-Content](https://github.com/SecondStoryServer/SS-SeverList-Content)
+- [SS-Blog-Notice](https://github.com/SecondStoryServer/SS-Blog-Notice)
