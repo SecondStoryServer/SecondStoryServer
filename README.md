@@ -12,7 +12,7 @@
 ### Phase5
 | Key | Value |
 |-----|-------|
-| Minecraft Version | 1.16.4 |
+| Minecraft Version | 1.16.4 → 1.16.5 |
 
 | Name | Description |
 |------|-------------|
