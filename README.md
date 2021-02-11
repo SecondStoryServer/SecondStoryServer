@@ -16,7 +16,7 @@
 
 | Name | Description |
 |------|-------------|
-| [SS-Plugins](https://github.com/SecondStoryServer/SS-Plugins) | Paper |
+| [SS-Plugins](https://github.com/SecondStoryServer/SS-Plugins) | Purpur |
 | [SS-W-Plugins](https://github.com/SecondStoryServer/SS-W-Plugins) | Waterfall |
 | [SS-Plugins-Message](https://github.com/SecondStoryServer/SS-Plugins-Message) | Paper-Waterfall間の通信データ |
 | [SS-Texture](https://github.com/SecondStoryServer/SS-Texture) | サーバーで使用しているテクスチャ |
