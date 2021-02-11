@@ -8,6 +8,9 @@
 | [SecondStoryServer](https://github.com/SecondStoryServer/SecondStoryServer) | Organizationについての説明 |
 | [SS-SeverList-Content](https://github.com/SecondStoryServer/SS-SeverList-Content) | サーバーリストでの紹介文 |
 | [SS-Blog-Notice](https://github.com/SecondStoryServer/SS-Blog-Notice) | ブログ自動通知 |
+| [SS-Texture](https://github.com/SecondStoryServer/SS-Texture) | サーバーで使用しているテクスチャ |
+| [SS-Texture-GitClient](https://github.com/SecondStoryServer/SS-Texture-GitClient) | テクスチャ管理の為のアプリケーション |
+| [Wiki](https://github.com/SecondStoryServer/Wiki) | 公式Wiki |
 
 ### Phase5
 | Key | Value |
@@ -19,9 +22,6 @@
 | [SS-Plugins](https://github.com/SecondStoryServer/SS-Plugins) | Purpur |
 | [SS-W-Plugins](https://github.com/SecondStoryServer/SS-W-Plugins) | Waterfall |
 | [SS-Plugins-Message](https://github.com/SecondStoryServer/SS-Plugins-Message) | Paper-Waterfall間の通信データ |
-| [SS-Texture](https://github.com/SecondStoryServer/SS-Texture) | サーバーで使用しているテクスチャ |
-| [SS-Texture-GitClient](https://github.com/SecondStoryServer/SS-Texture-GitClient) | テクスチャ管理の為のアプリケーション |
-| [Wiki](https://github.com/SecondStoryServer/Wiki) | 公式Wiki |
 
 ### Phase4
 | Key | Value |
