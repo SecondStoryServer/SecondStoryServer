@@ -19,9 +19,9 @@
 
 | Name | Description |
 |------|-------------|
-| [SS-Plugins](https://github.com/SecondStoryServer/SS-Plugins) | Purpur |
-| [SS-W-Plugins](https://github.com/SecondStoryServer/SS-W-Plugins) | Waterfall |
-| [SS-Plugins-Message](https://github.com/SecondStoryServer/SS-Plugins-Message) | Paper-Waterfall間の通信データ |
+| [SS-Plugins](https://github.com/SecondStoryServer/SS-Plugins) | Yatopia, Waterfall |
+| [SS-W-Plugins](https://github.com/SecondStoryServer/SS-W-Plugins) | Waterfall (※SS-Pluginsに統合) |
+| [SS-Plugins-Message](https://github.com/SecondStoryServer/SS-Plugins-Message) | Paper-Waterfall間の通信データ (※SS-Pluginsに統合) |
 
 ### Phase4
 | Key | Value |
